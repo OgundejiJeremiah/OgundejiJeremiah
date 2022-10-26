@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**OgundejiJeremiah/OgundejiJeremiah** is a Frontend Developer.
+OgundejiJeremiah/OgundejiJeremiah** is a Frontend Developer.
 
 I'm curently taking courses online on frontend development and I'm learning javascripts at the moment I'm texting this.
 
