@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-OgundejiJeremiah/OgundejiJeremiah** is a Frontend Developer.
+Good to have you here.
+
+I am a Frontend Developer.
 
 I'm curently taking courses online on frontend development and I'm learning javascripts at the moment I'm texting this.
 
